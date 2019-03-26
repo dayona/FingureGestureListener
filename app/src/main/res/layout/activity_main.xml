@@ -10,7 +10,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/tagLayout"
         android:layout_width="match_parent"
-        android:layout_height="500dp"></com.example.touchmanage.OnRotationGestureListener>
+        android:layout_height="500dp">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -71,7 +71,7 @@
     </LinearLayout>
 
 
-
+    </com.example.touchmanage.OnRotationGestureListener>
 
 </android.support.constraint.ConstraintLayout>
 

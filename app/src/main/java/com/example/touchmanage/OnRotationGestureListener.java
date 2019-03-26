@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 
-public  class OnRotationGestureListener extends  LinearLayout {
+public abstract class OnRotationGestureListener extends  LinearLayout {
     private float mAngle;
 
 
